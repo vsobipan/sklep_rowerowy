@@ -1,0 +1,65 @@
+
+.thumbnail {
+    padding: 10px;
+    background-color: white;
+    
+    border-radius: 0px;    
+}
+body{
+  
+    background-size: contain;
+}
+.thumbnail>img{
+    max-height: 240px;
+    
+}
+
+.btn {
+    background-color: gold;
+    color: black;
+    font-size: 16px;
+padding: 5px 15px 5px 15px;
+    border-radius: 5px;
+}
+.thumbnail>p{
+    text-align: center;
+}
+.btn:hover {
+    color:white;
+    
+    
+    
+}
+footer{
+    
+    margin-top: 100px;
+}
+.col-lg-4>p{
+    text-align: center;
+}
+.container.main{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.thumbnail:hover{
+    box-shadow: 0px 0px 20px 1px #333;
+}
+
+
+.choise {
+    margin-bottom: 80px;
+    margin-top: 50px;
+}
+.choise>h4{
+    color: #777;
+    font-style: italic;
+}
+
+.btn-success {
+    border-radius: 5px;
+    background-color: green;
+    
+}
+.container.chose{
+    
+}
